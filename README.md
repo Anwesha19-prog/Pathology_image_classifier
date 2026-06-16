@@ -168,9 +168,9 @@ This project is for educational and portfolio purposes. Please ensure compliance
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [Anwesha19-prog](https://github.com/anwesha19-prog)
+- LinkedIn: [Dr. Anwesha](https://linkedin.com/in/anwesha-sarkar19)
+- Email: anwesha19sarkar@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -179,5 +179,3 @@ This project is for educational and portfolio purposes. Please ensure compliance
 - The computational pathology research community
 
 ---
-
-*This project was created as a portfolio demonstration for computational pathology research positions.*
