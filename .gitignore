@@ -28,16 +28,16 @@ wheels/
 *.ipynb_checkpoints/
 
 # Data files (too large for git)
-data/
+# data/  # Commented out to allow data folder to be committed
 *.h5
-*.pkl
+# *.pkl  # Commented out to allow .pkl files to be committed
 *.pth
 *.pt
 
 # Models (too large for git - use Git LFS or external storage)
-models/*.pkl
-models/*.pth
-models/*.h5
+# models/*.pkl  # Commented out to allow model files to be committed
+# models/*.pth
+# models/*.h5
 
 # IDE
 .vscode/
