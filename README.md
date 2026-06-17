@@ -134,27 +134,6 @@ The project includes Grad-CAM (Gradient-weighted Class Activation Mapping) visua
 - Identifying potential biases
 - Educational purposes
 
-## 🎓 Learning Outcomes
-
-This project demonstrates:
-- ✅ Understanding of medical imaging and pathology
-- ✅ Deep learning for image classification
-- ✅ Transfer learning techniques
-- ✅ Model evaluation with medical metrics
-- ✅ Model interpretability (Grad-CAM)
-- ✅ Web deployment of ML models
-- ✅ Best practices in ML project organization
-
-## 🔮 Future Improvements
-
-- [ ] Multi-class classification (different cancer subtypes)
-- [ ] Multi-magnification ensemble models
-- [ ] Nuclei segmentation and feature extraction
-- [ ] Attention mechanisms for better interpretability
-- [ ] Integration with whole slide imaging (WSI)
-- [ ] Deployment to cloud platforms (Hugging Face Spaces, AWS)
-- [ ] Mobile app development
-
 ## 📚 References
 
 1. Spanhol, F. A., et al. "A Dataset for Breast Cancer Histopathological Image Classification." IEEE TBME, 2016.
@@ -167,7 +146,7 @@ This project is for educational and portfolio purposes. Please ensure compliance
 
 ## 👤 Author
 
-**Your Name**
+**Anwesha Sarkar**
 - GitHub: [Anwesha19-prog](https://github.com/anwesha19-prog)
 - LinkedIn: [Dr. Anwesha](https://linkedin.com/in/anwesha-sarkar19)
 - Email: anwesha19sarkar@gmail.com
